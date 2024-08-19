@@ -1,5 +1,3 @@
-
-
 ```bash
 ├── public               // Fichiers statiques
 │
@@ -26,3 +24,4 @@ Pour lancer l'application en mode développement, exécutez la commande suivante
 npm run dev
 ```
 
+coucou
