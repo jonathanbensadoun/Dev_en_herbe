@@ -3,6 +3,9 @@ import React from "react";
 const Home = () => {
   return (
     <div className="flex flex-col justify-center items-center h-screen bg-gray-900">
+      <h1 className="text-3xl text-white font-bold py-4">
+        Welcome to Dev En Herbe !
+      </h1>
       <img
         src="/src/assets/rocket.png"
         alt="Placeholder Image"
