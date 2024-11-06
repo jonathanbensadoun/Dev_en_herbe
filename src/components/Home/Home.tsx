@@ -13,7 +13,7 @@ const Home = () => {
       />
       <button
         className="bg-purple-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mt-4"
-        onClick={() => (window.location.href = "https://discord.gg/ckNy9GeK")}
+        onClick={() => (window.location.href = "https://discord.gg/ySk47pwBVy")}
       >
         Join Discord
       </button>
