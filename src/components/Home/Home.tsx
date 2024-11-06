@@ -8,7 +8,7 @@ const Home = () => {
       </h1>
       <img
         src="rocket.png"
-        alt="Placeholder Image"
+        alt="image d'un astronaute sur une fusée"
         className="w-1/2 md:w-1/4 rounded-lg"
       />
       <button
